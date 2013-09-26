@@ -45,15 +45,15 @@
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
-  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="notdefault,device" />
-  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="notdefault,device" />
-  <project path="device/htc/m7ul" name="DU-Final/device_htc_m7ul" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7att" name="DU-Final/device_htc_m7att" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7tmo" name="DU-Final/device_htc_m7tmo" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7spr" name="DU-Final/device_htc_m7spr" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/m7-common" name="DU-Final/device_htc_m7-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7" />
-  <project path="device/htc/msm8960-common" name="DU-Final/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,m7,evita" />
-  <project path="device/htc/s4-common" name="DU-Final/device_htc_s4-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,htc,evita" />
+  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
+  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
+  <project path="device/htc/m7ul" name="DU-Final/device_htc_m7ul" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/m7att" name="DU-Final/device_htc_m7att" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/m7tmo" name="DU-Final/device_htc_m7tmo" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/m7spr" name="DU-Final/device_htc_m7spr" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/m7-common" name="DU-Final/device_htc_m7-common" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/msm8960-common" name="DU-Final/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" />
+  <project path="device/htc/s4-common" name="DU-Final/device_htc_s4-common" remote="aokp" revision="jb-mr2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -285,7 +285,7 @@
   <project path="hardware/ti/omap4xxx" name="DU-Final/android_hardware_ti_omap4xxx" remote="cm" revision="cm-10.2" />
   <project path="hardware/ti/wlan" name="DU-Final/android_hardware_ti_wlan" remote="cm" revision="cm-10.2" />
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
-  <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" groups="notdefault,kernel,m7" />
+  <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
   <project path="libcore" name="DU-Final/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
@@ -411,7 +411,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
   <project path="vendor/aokp" name="DU-Final/vendor_aokp" remote="aokp" revision="jb-mr2" />
-  <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,htc" />
+  <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="DU-Final/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
