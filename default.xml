@@ -419,7 +419,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
-  <project path="vendor/aokp" name="DU-Final/vendor_aokp" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/du" name="DU-Final/vendor_du" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
