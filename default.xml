@@ -54,6 +54,9 @@
   <project path="device/htc/m7-common" name="DU-Final/device_htc_m7-common" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/msm8960-common" name="DU-Final/device_htc_msm8960-common" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/s4-common" name="DU-Final/device_htc_s4-common" remote="aokp" revision="jb-mr2" />
+  <project path="device/lge/mako" name="DU-Final/device_lge_mako" remote="aokp" revision="jb-mr2" />
+  <project path="device/samsung/hercules" name="DU-Final/device_samsung_hercules" remote="aokp" revision="jb-mr2" />
+  <project path="device/samsung/celox-common" name="AOKP/device_samsung_celox-common" remote="aokp" revision="jb-mr2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -285,6 +288,8 @@
   <project path="hardware/ti/wlan" name="DU-Final/android_hardware_ti_wlan" remote="cm" revision="cm-10.2" />
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
+  <project path="kernel/lge/mako" name="DU-Final/lge-kernel-mako" remote="cm" revision="cm10.2" />
+  <project path="kernel/samsung/msm8660-common" name="DU-Final/android_kernel_samsung_msm8660-common" remote="cm" revision="cm-10.2" />
   <project path="libcore" name="DU-Final/android_libcore" remote="cm" revision="cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
@@ -420,7 +425,7 @@
 -->
   <project path="vendor/du" name="DU-Final/vendor_du" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
-
+  <project path="vendor/samsung" name="DU-Final/vendor_samsung" remote="aokp" revision="du43" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="DU-Final/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="DU-Final/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
