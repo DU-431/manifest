@@ -294,6 +294,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/About" name="DU-Final/packages_apps_About" remote="aokp" revision="du43" />
+  <project path="packages/apps/Apollo" name="DU-Final/packages_apps_Apollo" remote="aokp" revision="cm-10.2" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="DU-Final/android_packages_apps_Bluetooth" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Browser" name="DU-Final/packages_apps_Browser" remote="aokp" revision="jb-mr2" />
