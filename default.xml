@@ -302,6 +302,7 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CDMATools" name="DU-Final/packages_apps_CDMATools" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="DU-Final/packages_apps_CMFileManager" remote="aokp" revision="cm-10.2" />
   <project path="packages/apps/Contacts" name="DU-Final/packages_apps_Contacts" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/ContactsCommon" name="DU-Final/packages_apps_ContactsCommon" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/DashClock" name="DU-Final/packages_apps_DashClock" remote="aokp" revision="jb4.3" />
