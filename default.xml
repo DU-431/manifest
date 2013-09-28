@@ -58,6 +58,7 @@
   <project path="device/samsung/hercules" name="DU-Final/device_samsung_hercules" remote="aokp" revision="jb-mr2" />
   <project path="device/samsung/celox-common" name="DU-Final/android_device_samsung_celox-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/l900" name="DU-Final/device_samsung_l900" remote="aokp" revision="du43" />
+  <project path="device/samsung/manta" name="DU-Final/device_samsung_manta" remote="aokp" revision="du43" />
   <project path="device/samsung/t0lte" name="DU-Final/device_samsung_t0lte" remote="aokp" revision="du43" />
   <project path="device/samsung/smdk4412-common" name="DU-Final/device_samsung_smdk4412-common" remote="aokp" revision="du43" />
   <project path="device/sample" name="device/sample" groups="pdk" />
@@ -292,6 +293,7 @@
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
   <project path="kernel/lge/mako" name="DU-Final/lge-kernel-mako" remote="cm" revision="cm-10.2" />
+  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/msm8660-common" name="DU-Final/android_kernel_samsung_msm8660-common" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/smdk4412" name="DU-Final/android_kernel_samsung_smdk4412" remote="aokp" revision="cm-10.2" />
   <project path="libcore" name="DU-Final/android_libcore" remote="cm" revision="cm-10.2" />
