@@ -61,6 +61,7 @@
   <project path="device/samsung/manta" name="DU-Final/device_samsung_manta" remote="aokp" revision="du43" />
   <project path="device/samsung/t0lte" name="DU-Final/device_samsung_t0lte" remote="aokp" revision="du43" />
   <project path="device/samsung/smdk4412-common" name="DU-Final/device_samsung_smdk4412-common" remote="aokp" revision="du43" />
+  <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.2" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
