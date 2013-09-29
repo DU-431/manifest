@@ -59,6 +59,7 @@
   <project path="device/samsung/exhilarate" name="DU-Final/android_device_samsung_exhilarate" remote="aokp" revision="cm-10.2" />
   <project path="device/samsung/t769" name="DU-Final/android_device_samsung_t769" remote="aokp" revision="cm-10.2" />
   <project path="device/samsung/celox-common" name="DU-Final/android_device_samsung_celox-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/i9300" name="DU-Final/device_samsung_i9300" remote="aokp" revision="jb-mr2" />
   <project path="device/samsung/l900" name="DU-Final/device_samsung_l900" remote="aokp" revision="du43" />
   <project path="device/samsung/manta" name="DU-Final/device_samsung_manta" remote="aokp" revision="du43" />
   <project path="device/samsung/msm8660-common" name="DU-Final/device_samsung_msm8660-common" remote="aokp" revision="jb-mr2" />
