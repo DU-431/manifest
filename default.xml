@@ -328,6 +328,7 @@
   <project path="packages/apps/FMRadio" name="DU-Final/android_packages_apps_FMRadio" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="DU-Final/packages_apps_Gallery2" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/HALO" name="DU-Final/HALO" remote="aokp" revision="jellybean" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/LockClock" name="DU-Final/packages_apps_LockClock" remote="aokp" revision="cm-10.2" />
