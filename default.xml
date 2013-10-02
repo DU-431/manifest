@@ -331,6 +331,7 @@
   <project path="packages/apps/DSPManager" name="DU-Final/packages_apps_DSPManager" remote="aokp" revision="cm-10.2" />
   <project path="packages/apps/duchangelog" name="DU-Final/packages_apps_duchangelog" remote="aokp" revision="du43" />
   <project path="packages/apps/DU-Stats" name="DU-Final/packages_apps_DU-Stats" remote="aokp" revision="du43" />
+  <project path="packages/apps/DU-Updater" name="DU-Final/packages_apps_DU-Updater" remote="aokp" revision="du43" />
   <project path="packages/apps/Email" name="DU-Final/packages_apps_Email" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/EVWidgets" name="DU-Final/packages_apps_EVWidgets" remote="aokp" revision="jellybean" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
