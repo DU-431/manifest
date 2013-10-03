@@ -454,6 +454,7 @@
 -->
   <project path="vendor/du" name="DU-Final/vendor_du" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/lge" name="DU-Final/vendor_lge" remote="aokp" revision="jb-mr2" />
   <project path="vendor/samsung" name="DU-Final/vendor_samsung" remote="aokp" revision="du43" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="DU-Final/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
