@@ -47,6 +47,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
+  <project path="device/htc/jewel" name="DU-Final/device_htc_jewel" remote="aokp" revision="jellybean-4.3" />
   <project path="device/htc/m7ul" name="DU-Final/device_htc_m7ul" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/m7att" name="DU-Final/device_htc_m7att" remote="aokp" revision="jb-mr2" />
   <project path="device/htc/m7tmo" name="DU-Final/device_htc_m7tmo" remote="aokp" revision="jb-mr2" />
@@ -312,6 +313,7 @@
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
   <project path="kernel/htc/msm8660" name="DU-Final/kernel_htc_msm8660" remote="aokp" revision="cm-10.2" />
+  <project path="kernel/htc/msm8960" name="DU-Final/android_kernel_htc_msm8960" remote="aokp" revision="cm-10.2" />
   <project path="kernel/lge/mako" name="DU-Final/lge-kernel-mako" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/tuna" name="DU-Final/kernel_samsung_tuna" remote="aokp" revision="jb4.3" />
