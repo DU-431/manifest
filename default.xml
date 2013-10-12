@@ -319,7 +319,7 @@ android_device_samsung_celox-common" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
   <project path="kernel/htc/msm8660" name="DU-Final/kernel_htc_msm8660" remote="aokp" revision="cm-10.2" />
   <project path="kernel/htc/msm8960" name="DU-Final/android_kernel_htc_msm8960" remote="aokp" revision="cm-10.2" />
-<project path="kernel/samsung/aries" name="DU-Final/android_kernel_samsung_aries" remote="aokp" revision="cm-10.2" />
+<project path="kernel/samsung/aries" name="DU-Final/samsung_kernel_aries" remote="aokp" revision="cm-10.2" />
   <project path="kernel/lge/mako" name="DU-Final/lge-kernel-mako" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/tuna" name="DU-Final/kernel_samsung_tuna" remote="aokp" revision="jb4.3" />
