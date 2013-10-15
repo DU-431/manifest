@@ -469,6 +469,13 @@
   <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
   <project path="vendor/lge" name="DU-Final/vendor_lge" remote="aokp" revision="jb-mr2" />
   <project path="vendor/samsung" name="DU-Final/vendor_samsung" remote="aokp" revision="cm-10.2" />
+  <project path="vendor/broadcom" name="DU-Final/vendor_broadcom" remote="aokp" revision="dirt43" />
+  <project path="vendor/imgtec" name="DU-Final/vendor_imgtec" remote="aokp" revision="dirt43" />
+  <project path="vendor/invensense" name="DU-Final/vendor_invensense" remote="aokp" revision="dirt43" />
+  <project path="vendor/nxp" name="DU-Final/vendor_nxp" remote="aokp" revision="dirt43" />
+  <project path="vendor/widevine" name="DU-Final/vendor_widevine" remote="aokp" revision="dirt43" />
+  <project path="vendor/csr" name="DU-Final/vendor_csr" remote="aokp" revision="jellybean" />
+  <project path="vendor/ti" name="DU-Final/vendor_ti" remote="aokp" revision="dirt43" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="DU-Final/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="DU-Final/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
