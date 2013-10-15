@@ -475,7 +475,7 @@
   <project path="vendor/nxp" name="DU-Final/android_vendor_nxp" remote="aokp" revision="dirt43" />
   <project path="vendor/widevine" name="DU-Final/android_vendor_widevine" remote="aokp" revision="dirt43" />
   <project path="vendor/csr" name="DU-Final/proprietary_vendor_csr" remote="aokp" revision="jellybean" />
-  <project path="vendor/ti" name="DU-Final/proprietary_vendor_ti" remote="aokp" revision="dirt43" />
+  <project path="vendor/ti" name="DU-Final/proprietary_vendor_ti" remote="aokp" revision="jellybean" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="DU-Final/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="DU-Final/vendor_tmobile_libs_com.tmobile.themes" remote="aokp" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="DU-Final/vendor_tmobile_providers_ThemeManager" remote="aokp" revision="jb-mr2" />
