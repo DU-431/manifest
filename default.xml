@@ -36,6 +36,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
+  <project path="device/asus/grouper" name="DU-Final/device_asus_grouper" remote="aokp" revision="jb-mr2" />
   <project path="device/common" name="DU-Final/android_device_common" remote="cm" revision="cm-10.2" groups="device" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common"  groups="pdk" />
@@ -317,6 +318,7 @@
   <project path="hardware/ti/omap4xxx" name="DU-Final/android_hardware_ti_omap4xxx" remote="cm" revision="cm-10.2" />
   <project path="hardware/ti/wlan" name="DU-Final/android_hardware_ti_wlan" remote="cm" revision="cm-10.2" />
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="cm" revision="cm-10.2" />
+  <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="aokp" revision="jb-mr2" />
   <project path="kernel/htc/msm8660" name="DU-Final/kernel_htc_msm8660" remote="aokp" revision="cm-10.2" />
   <project path="kernel/htc/msm8960" name="DU-Final/android_kernel_htc_msm8960" remote="aokp" revision="cm-10.2" />
@@ -467,6 +469,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
+  <project path="vendor/asus" name="DU-Final/vendor_asus" remote="aokp" revision="jb-mr2" />
   <project path="vendor/du" name="DU-Final/vendor_du" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="DU-Final/vendor_htc" remote="aokp" revision="jb-mr2" />
   <project path="vendor/lge" name="DU-Final/vendor_lge" remote="aokp" revision="jb-mr2" />
