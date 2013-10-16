@@ -78,6 +78,8 @@
   <project path="device/samsung/l900" name="DU-Final/device_samsung_l900" remote="aokp" revision="du43" />
   <project path="device/samsung/manta" name="DU-Final/device_samsung_manta" remote="aokp" revision="du43" />
   <project path="device/samsung/msm8960-common" name="DU-Final/android_device_samsung_msm8960-common" remote="aokp" revision="cm-10.2" />
+  <project path="device/samsung/maguro" name="DU-Final/device_samsung_maguro" remote="aokp" revision="jb-mr2" />
+  <project path="device/samsung/toro" name="DU-Final/device_samsung_toro" remote="aokp" revision="jb-mr2" />
   <project path="device/samsung/toroplus" name="DU-Final/android_device_samsung_toroplus" remote="aokp" revision="cm-10.2" />
   <project path="device/samsung/tuna" name="DU-Final/android_device_samsung_tuna" remote="aokp" revision="cm-10.2" />
   <project path="device/samsung/msm8660-common" name="DU-Final/device_samsung_msm8660-common" remote="aokp" revision="jb-mr2" />
