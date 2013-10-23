@@ -116,7 +116,7 @@
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
   <project path="external/dnsmasq" name="DU-Final/external_dnsmasq" remote="aokp" revision="jb-mr2" groups="pdk"/>
-  <project path="external/doclava" name="platform/external/doclava" />
+  <project path="external/doclava" name="DU-Final/external_doclava" remote="aokp" revision="du43" />
   <project path="external/dropbear" name="platform/external/dropbear" />
   <project path="external/e2fsprogs" name="DU-Final/external_e2fsprogs" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="external/easymock" name="platform/external/easymock" />
