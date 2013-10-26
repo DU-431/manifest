@@ -5,6 +5,10 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
+  <remote  name="du"
+           fetch="https://github.com/"
+           review="gerrit.dirtyunicorns.com" />
+
   <remote  name="aokp"
            fetch="https://github.com/"
            review="gerrit.aokp.co" />
