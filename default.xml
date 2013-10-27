@@ -15,7 +15,8 @@
 
   <default revision="refs/tags/android-4.3.1_r1"
            remote="aosp"
-           sync-j="4" />
+           sync-f="true"
+           sync-j="8" />
 
   <project path="build" name="DU-Final/build" remote="du" revision="jb-mr2" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
