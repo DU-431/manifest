@@ -315,7 +315,7 @@
   <project path="hardware/ti/omap4xxx" name="DU-Final/android_hardware_ti_omap4xxx" remote="du" revision="du43" />
   <project path="hardware/ti/wlan" name="DU-Final/android_hardware_ti_wlan" remote="du" revision="du43" />
   <project path="hardware/ti/wpan" name="DU-Final/android_hardware_ti_wpan" remote="du" revision="du43" />
-  <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="du" revision="du43" />
+  <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="du" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="DU-Final/kernel_htc_m7" remote="du" revision="du43" />
   <project path="kernel/htc/msm8660" name="DU-Final/kernel_htc_msm8660" remote="du" revision="du43" />
   <project path="kernel/htc/msm8960" name="DU-Final/android_kernel_htc_msm8960" remote="du" revision="du43" />
